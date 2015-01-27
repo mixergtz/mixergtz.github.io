@@ -34,7 +34,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['assets/images/bg4.jpg']);
+		$('#intro').backstretch(['https://unsplash.imgix.net/45/QDSMoAMTYaZoXpcwBjsL__DSC0104-1.jpg?q=75&fm=jpg&s=a23211f4c321462b631e8bc8978ca4af']);
 
 		/* ---------------------------------------------- /*
 		 * Navbar
